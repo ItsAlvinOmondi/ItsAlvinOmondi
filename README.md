@@ -1,16 +1,14 @@
-## Hi there 👋
+Hello, I'm Alvin Omondi
+🌱 Aspiring Developer | Continuous Learner | Problem Solver
+Welcome to my GitHub profile! I'm at the beginning of my coding journey, passionate about building my skills and creating meaningful projects.
 
-<!--
-**ItsAlvinOmondi/ItsAlvinOmondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🔭 I'm currently working on building my fundamental programming skills, as well as developing my cybersecurity expertise
+🌱 I'm learning Python, Javascript, SQL, and C++. 
+👯 Open to collaborating on beginner-friendly open source projects
+🤔 Looking for mentorship and guidance from experienced developers
+💬 Let's talk about Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+See ya soon!
