@@ -1,5 +1,5 @@
 Hello, I'm Alvin Omondi
-🌱 Aspiring Developer | Continuous Learner | Problem Solver
+🌱 Aspiring Cybersecurity Analyst | Continuous Learner | Problem Solver
 Welcome to my GitHub profile! I'm at the beginning of my coding journey, passionate about building my skills and creating meaningful projects.
 
 🚀 About Me
