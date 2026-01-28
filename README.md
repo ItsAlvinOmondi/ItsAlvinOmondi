@@ -1,4 +1,5 @@
 🌱 Cybersecurity Professional & AI Solutions Expert | Threat Hunter | Security Automation Enthusiast
+
 🔐 Building secure systems through code and AI-driven solutions
 🤖 Leveraging GenAI to solve complex security and business challenges
 🐍 Python • Linux • Security Operations • Networking • Prompt Engineering
