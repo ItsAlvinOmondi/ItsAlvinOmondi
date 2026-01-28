@@ -1,4 +1,3 @@
-Hello, I'm Alvin Omondi
 🌱 Cybersecurity Professional & AI Solutions Expert | Threat Hunter | Security Automation Enthusiast
 🔐 Building secure systems through code and AI-driven solutions
 🤖 Leveraging GenAI to solve complex security and business challenges
